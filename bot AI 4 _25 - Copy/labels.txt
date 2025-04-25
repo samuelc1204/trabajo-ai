@@ -1,0 +1,4 @@
+0 hombres jovenes 
+1 mujeres viejas
+2 mujeres jovenes 
+3 hombres viejos
